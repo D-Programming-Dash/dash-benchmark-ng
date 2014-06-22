@@ -1,0 +1,14 @@
+{
+    "name": "ng",
+    "changelog": [],
+    "tests": [
+        {
+            "name": "magic_forest",
+            "sourceFiles": ["magic_forest.d"]
+        },
+        {
+            "name": "perlin_noise",
+            "sourceFiles": ["perlin_noise.d"]
+        }
+    ]
+}
